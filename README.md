@@ -1,1 +1,1 @@
-changes in first branch
+resolved conflits
